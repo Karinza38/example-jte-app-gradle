@@ -7,5 +7,9 @@
   unit_test() 
 */
 libraries{
-  gradle
+  gradle {
+    number = 3
+    message = "message is printed"
+  }
+  
 }
