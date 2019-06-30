@@ -8,7 +8,10 @@
 */
 libraries{
   myLib
-  gradle
+  gradle {
+    number = 3
+    message = "Hello Subir from gradle"
+  }
   example   {
     number = 3
     message = "Hello Example"
