@@ -9,7 +9,7 @@
 libraries{
   myLib
   gradle
-  example {
+  example{
     number = 3
     message = "Hello Example"
   }
