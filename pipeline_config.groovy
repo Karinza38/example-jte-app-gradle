@@ -7,11 +7,5 @@
   unit_test() 
 */
 libraries{
-    
-
-  example {
-    number = 3
-    message = "message is printed"
-  }
-  
+    example
 }
