@@ -7,5 +7,5 @@
   unit_test() 
 */
 libraries{
-    example
+    myLib
 }
