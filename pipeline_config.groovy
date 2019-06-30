@@ -7,7 +7,7 @@
   unit_test() 
 */
 libraries{
-  myLib  
+  myLib
   gradle
     
 }
