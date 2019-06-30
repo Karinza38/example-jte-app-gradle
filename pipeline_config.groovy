@@ -9,5 +9,4 @@
 libraries{
   myLib
   gradle
-    
 }
