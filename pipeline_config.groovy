@@ -7,7 +7,7 @@
   unit_test() 
 */
 libraries{
-  gradle  
+    
 
   example {
     number = 3
