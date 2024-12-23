@@ -1,2 +1,2 @@
-# example-jte-app-gradle
+example-jte-app-gradle
 testing
